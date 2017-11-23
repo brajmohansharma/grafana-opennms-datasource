@@ -1,3 +1,7 @@
+# 2.1.1 (11/23/17)
+
+* Final release - adding depraction notice.
+
 # 2.1.0 (01/04/17)
 
 * Add support for Grafana 4. Fixes [#7](https://github.com/OpenNMS/grafana-opennms-datasource/issues/7)

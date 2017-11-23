@@ -26,8 +26,8 @@
       {"name": "Query Editor", "path": "img/screenshot_query_editor.png"},
       {"name": "Metric Query", "path": "img/screenshot_metric_query_nodes.png"}
     ],
-    "version": "2.1.0",
-    "updated": "2017-01-04"
+    "version": "2.1.1",
+    "updated": "2017-11-23"
   },
 
   "dependencies": {
